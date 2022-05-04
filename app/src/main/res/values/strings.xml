@@ -1,0 +1,38 @@
+<resources>
+    <string name="app_name">Asystent</string>
+
+    <string name="menu_students">Studenci</string>
+    <string name="menu_subjects">Przedmioty</string>
+    <string name="menu_settings">Ustawienia</string>
+
+    <string name="first_name_text">Imię</string>
+    <string name="last_name_text">Nawisko</string>
+    <string name="name_text">Imię Nazwisko</string>
+    <string name="album_number_text">Numer albumu</string>
+    <string name="add_student_text">Dodaj studenta</string>
+    <string name="edit_student_text">Edytuj studenta</string>
+    <string name="album_number_placeholder">00000000</string>
+    <string name="new_student_text">Nowy student</string>
+
+    <string name="subject_name_text">Nazwa przedmiotu</string>
+    <string name="change_time_text">Zmień</string>
+    <string name="text_from">Od:</string>
+    <string name="text_to">Do:</string>
+    <string name="placeholder_time">00:00</string>
+    <string name="add_subject_text">Dodaj przedmiot</string>
+    <string name="edit_subject_text">Edytuj przedmiot</string>
+    <string name="week_day_placeholder">Poniedziałek</string>
+    <string name="new_subject_text">Nowy przedmiot</string>
+
+    <string name="grades_text">Oceny</string>
+    <string name="placeholder_grade">5</string>
+    <string name="add_grade_text">Dodaj ocenę</string>
+    <string name="placeholder_grade_desc">Ocena ze sprawdzianu</string>
+
+    <string name="clear_db_text">Wyczyść bazę danych</string>
+
+    <string name="back_button_desc">Button going back after press</string>
+    <string name="delete_iv_desc">ItemView for deleting a list item</string>
+    <string name="edit_iv_desc">ItemView for editing a list item</string>
+
+</resources>

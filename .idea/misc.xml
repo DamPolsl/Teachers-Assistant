@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/drawable/ic_baseline_group_24.xml" value="0.3828125" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/drawable/ic_students.xml" value="0.3828125" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/layout/activity_main.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/layout/fragment_add_student.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/layout/fragment_add_subject.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/layout/fragment_students.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/layout/fragment_subjects.xml" value="0.2957427536231884" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/menu/bottom_nav.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Damian/AndroidStudioProjects/Asystent/app/src/main/res/mipmap-anydpi-v26/ic_launcher_round.xml" value="0.3828125" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_add_student.xml" value="0.25" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_add_subject.xml" value="0.2667572463768116" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_edit_subject.xml" value="0.20520833333333333" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_grade_add_edit.xml" value="0.28396739130434784" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_grades.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_settings.xml" value="0.1625" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_students.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/fragment_subjects.xml" value="0.25" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/grade_rv_item.xml" value="0.33" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/pick_subject_rv_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/student_rv_item.xml" value="0.36614583333333334" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/students_of_subject_rv_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/layout/subject_rv_item.xml" value="0.36666666666666664" />
+        <entry key="..\:/Users/Damian/Desktop/Asystent/app/src/main/res/menu/bottom_nav.xml" value="0.33" />
+        <entry key="..\:/Users/Damian/Desktop/Studia/semestr 5/Ap Mob Android/Asystent/app/src/main/res/layout/activity_main.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Damian/Desktop/Studia/semestr 5/Ap Mob Android/Asystent/app/src/main/res/layout/fragment_add_student.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Damian/Desktop/Studia/semestr 5/Ap Mob Android/Asystent/app/src/main/res/layout/fragment_add_subject.xml" value="0.25364583333333335" />
+        <entry key="..\:/Users/Damian/Desktop/Studia/semestr 5/Ap Mob Android/Asystent/app/src/main/res/layout/fragment_students.xml" value="0.25364583333333335" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
